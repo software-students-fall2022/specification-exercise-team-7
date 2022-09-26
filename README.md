@@ -7,7 +7,7 @@ A little exercise to get started with the specification phase of the software de
 
 * Wuji Cao
 * Amaan Khwaja
-* Michelle Lu [https://github.com/michellelu8]
+* [Michelle Lu](https://github.com/michellelu8)
 * Maaz Ahmed
 
 ## Stakeholders
