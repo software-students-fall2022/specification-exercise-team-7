@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-* Wuji Cao
+* [Wuji Cao](https://github.com/cwj2099)
 * Amaan Khwaja
 * [Michelle Lu](https://github.com/michellelu8)
 * Maaz Ahmed
@@ -13,6 +13,18 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+
+* Nolan Song: as a casual cook
+- want to cook as fast as possible
+- only go to groceries when he have plenty free time
+- do not want to spend time watching video
+- a lot recipe is received from grandma
+- simple or complex does not matter very much, time do
+
+* Zoe Yang: as a newbie
+- want to cook easy but delicious foods
+- are willing to get ingredients as fast as possible
+- prefer detailed instructions with datas
 
 ## Product Vision Statement
 
