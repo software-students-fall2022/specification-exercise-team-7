@@ -33,4 +33,4 @@ CookIt is an app that allows users to post recipes, look at other people's recip
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![UML Diagram](/images/uml/UML1.png?raw=true "Optional Title")
