@@ -36,7 +36,7 @@ CookIt is an app that allows users to post recipes, look at other people's recip
 * As an avid cook, I want to have a place where I can store all of my beloved recipes, so I don't lose track of what dishes I've created already.
 * As a person wanting my friends to start cooking, I want to be able to add them as a friend on the app so we can engage with each other's beloved recipes. 
 * As your everyday cook, I want to have an area of the app that stores all of the recipes that I want to try and have tried so I can keep my list of recipes organized.
-* As a food critic, I want to be able to add comments and ratings onto recipes I either love or dislike, so I can let others know if it's a worthwhile recipe or not.
+* As a food critic, I want to be able to add ratings onto recipes I either love or dislike, so I can let others know if it's a worthwhile recipe or not.
 * As a beginner cook, I want the app to recommend me some recipes to try based on my diet, expertise, and time constraints so I don't have to look through recipes that I do not have the experience or time for. 
 * As a person desperate to make a dish from a certain culture, I want the app to be able to filter out the different dishes from a specific culture so I can easily find what kind of food I'm trying to make.
 * As a chef influencer, I want people to be able to follow my recipes on a recipe-centralized app so I can continue pushing my content to the right audience.
