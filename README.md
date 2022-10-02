@@ -47,3 +47,7 @@ CookIt is an app that allows users to post recipes, look at other people's recip
 
 ![UML Diagram](/images/uml/UML1.png?raw=true "Optional Title")
 ![UML Diagram](/images/uml/UML2.png?raw=true "Optional Title")
+
+## Prototype
+
+https://www.figma.com/proto/RhClAl9wa6J7qsuc10Rkc5/Wireframes-%2F%2F-Prototype?node-id=44%3A142&starting-point-node-id=44%3A142
