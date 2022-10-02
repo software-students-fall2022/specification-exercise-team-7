@@ -13,16 +13,17 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 * Nolan Song: as a casual cook
-- want to cook as fast as possible
-- only go to groceries when he have plenty free time
-- do not want to spend time watching video
-- a lot recipe is received from grandma
-- simple or complex does not matter very much, time do
+- wants to cook as fast as possible
+- only go to get groceries when he has plenty free time
+- does not want to spend time watching videos
+- a lot recipes are received from grandma
+- simple or complex does not matter very much, time does
 
 * Zoe Yang: as a newbie
-- want to cook easy but delicious foods
-- are willing to get ingredients as fast as possible
-- prefer detailed instructions with datas
+- wants to cook easy but delicious foods
+- is willing to get ingredients as fast as possible
+- prefers detailed instructions with data
+- is on a budget so wishes to have an idea of the cost
 
 ## Product Vision Statement
 
@@ -31,10 +32,11 @@ CookIt is an app that allows users to post recipes, look at other people's recip
 ## User Requirements
 
 * As a busy student, I want to look through recipes and easily figure out how much time it would take for me to make a specific dish so that I can better pick recipes that are suitable to my schedule.
+* As a student on a budget, I want to be able to see how much ingredients for a specific recipe will cost so I can plan accordingly.
 * As a vegan, I want to be able to filter through vegan-only recipes so that I waste less time looking at dishes I can't cook.
-* As a parent, I want to be able to adjust the serving size of the recipe so I know exactly how much of each ingredient I should buy.
+* As a parent, I want to be able to get a clear idea of the ingredients so I know exactly which and how much of each ingredient I should buy.
 * As an avid cook, I want to have a place where I can store all of my beloved recipes, so I don't lose track of what dishes I've created already.
-* As a person wanting my friends to start cooking, I want to be able to add them as a friend on the app so we can engage with each other's beloved recipes. 
+* As a person wanting my friends to start cooking, I want my friends to sign up on the app so we can engage with each other's beloved recipes. 
 * As your everyday cook, I want to have an area of the app that stores all of the recipes that I want to try and have tried so I can keep my list of recipes organized.
 * As a food critic, I want to be able to add ratings onto recipes I either love or dislike, so I can let others know if it's a worthwhile recipe or not.
 * As a beginner cook, I want the app to recommend me some recipes to try based on my diet, expertise, and time constraints so I don't have to look through recipes that I do not have the experience or time for. 
