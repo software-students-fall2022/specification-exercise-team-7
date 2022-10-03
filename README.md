@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-* Nolan Song: as a casual cook
+# Nolan Song: as a casual cook
 - wants to cook as fast as possible
 - only go to get groceries when he has plenty free time
 - does not want to spend time watching videos
