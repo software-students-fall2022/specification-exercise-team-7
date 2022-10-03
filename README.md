@@ -12,14 +12,14 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-### Nolan Song: as a casual cook
+### Nolan Song: an NYU Grad Student and a casual cook
 - wants to cook as fast as possible
 - only go to get groceries when he has plenty free time
 - does not want to spend time watching videos
 - a lot recipes are received from grandma
 - simple or complex does not matter very much, time does
 
-* Zoe Yang: as a newbie
+### Zoe Yang: a sophomore at NYU and a cooking newbie
 - wants to cook easy but delicious foods
 - is willing to get ingredients as fast as possible
 - prefers detailed instructions with data
