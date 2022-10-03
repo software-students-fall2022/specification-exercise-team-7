@@ -12,18 +12,34 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
+The following are stakeholders we interviewed as potential end-users as they represent the audience we are targeting - common people with time and budget constraints looking for solutions to satisfy their cooking needs.
+<br>
+
 ### Nolan Song: an NYU Grad Student and a casual cook
+**Frustrations**
+- has to go to grandma for most recipes
+- does not have a lot of time on his hands
+- is good at cooking but not at time management
+
+**Goals**
 - wants to cook as fast as possible
 - only go to get groceries when he has plenty free time
 - does not want to spend time watching videos
-- a lot recipes are received from grandma
-- simple or complex does not matter very much, time does
+- does not want to bother grandma for recipes
+- wants both simple and complex food recipes but not too time consuming
 
 ### Zoe Yang: a sophomore at NYU and a cooking newbie
+**Frustrations**
+- is not very good at cooking
+- wants good food but does not know how to make it
+- finds it hard to discover detailed recipes in one place
+- can not eat out everyday because she needs to save money
+
+**Goals**
 - wants to cook easy but delicious foods
-- is willing to get ingredients as fast as possible
-- prefers detailed instructions with data
-- is on a budget so wishes to have an idea of the cost
+- wants all of the recipes she follows in one place
+- wants detailed instructions with data
+- is on a budget so wishes to have an idea of the cost of making food
 
 ## Product Vision Statement
 
